@@ -126,6 +126,28 @@ For example:
 - `/scripts` — automation helpers, data exports, and reporting scripts.
 - `/data` — simple CSV/JSON records and tracking tables.
 
+## License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You are free to:
+
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material.
+
+Under the following conditions:
+
+- **Attribution** — Appropriate credit must be given, a link to the license must be provided, and any changes must be indicated.
+- **NonCommercial** — The material may not be used for commercial purposes without prior permission.
+
+This license applies to the original documentation, strategies, frameworks, SOPs, templates, agent definitions, RAG documentation, research, and other original materials contained in this repository, unless otherwise stated.
+
+Third-party materials remain subject to their respective licenses and terms and are not automatically relicensed under CC BY-NC 4.0. Do not claim ownership of third-party material.
+
+If standalone software/code is added to this repository in the future, its licensing may be specified separately where appropriate. Unless explicitly stated otherwise, do not assume third-party code or dependencies are covered by this repository's license.
+
+For the complete license terms, see the `LICENSE` file or the official Creative Commons link: https://creativecommons.org/licenses/by-nc/4.0/.
+
 ## Start here
 
 - `MASTER-PLAN.md` — review the architecture.
